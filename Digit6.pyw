@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Matchup"
+macro = "Digit6"
 
 chymac.chysend(macro)

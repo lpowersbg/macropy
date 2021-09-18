@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Matchup"
+macro = "LineupPageC"
 
 chymac.chysend(macro)

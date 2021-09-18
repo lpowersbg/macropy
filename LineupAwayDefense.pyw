@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Matchup"
+macro = "LineupAwayDefense"
 
 chymac.chysend(macro)

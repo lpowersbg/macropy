@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Digit8"
+macro = "ISOHome1"
 
 chymac.chysend(macro)

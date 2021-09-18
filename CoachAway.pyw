@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Digit8"
+macro = "CoachAway"
 
 chymac.chysend(macro)
