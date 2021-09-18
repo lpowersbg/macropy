@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <site>
+  </site>
+  <BOT>0</BOT>
+  <vendor>Daktronics</vendor>
+  <sport>Football</sport>
+  <clock>10:57</clock>
+  <clockmin>10</clockmin>
+  <clocksec>57</clocksec>
+  <clockstatus>
+  </clockstatus>
+  <clockmode>:</clockmode>
+  <playclock>25</playclock>
+  <playclockstatus>
+  </playclockstatus>
+  <horn>
+  </horn>
+  <Hscore>17</Hscore>
+  <Vscore> 0</Vscore>
+  <possession>
+  </possession>
+  <HPos>
+  </HPos>
+  <VPos>
+  </VPos>
+  <Htimeouts>2</Htimeouts>
+  <Vtimeouts>1</Vtimeouts>
+  <HTOGraphic>- -</HTOGraphic>
+  <VTOGraphic>-</VTOGraphic>
+  <down>1</down>
+  <downtext>1st</downtext>
+  <togo>10</togo>
+  <ballon>
+  </ballon>
+  <downdist>1st and 10 on 0</downdist>
+  <quarter>2</quarter>
+  <qtrtext>2nd</qtrtext>
+  <flag>
+  </flag>
+  <Hteam>
+  </Hteam>
+  <Vteam>
+  </Vteam>
+  <Hyardsrushing>0</Hyardsrushing>
+  <Hyardspassing>0</Hyardspassing>
+  <Htotalyards>0</Htotalyards>
+  <Hfirstdowns>0</Hfirstdowns>
+  <Vyardsrushing>0</Vyardsrushing>
+  <Vyardspassing>0</Vyardspassing>
+  <Vtotalyards>0</Vtotalyards>
+  <Vfirstdowns>0</Vfirstdowns>
+  <HScore1stQtr>0</HScore1stQtr>
+  <HScore2ndQtr>0</HScore2ndQtr>
+  <HScore3rdQtr>0</HScore3rdQtr>
+  <HScore4thQtr>0</HScore4thQtr>
+  <VScore1stQtr>0</VScore1stQtr>
+  <VScore2ndQtr>0</VScore2ndQtr>
+  <VScore3rdQtr>0</VScore3rdQtr>
+  <VScore4thQtr>0</VScore4thQtr>
+  <hexbot>009C66</hexbot>
+  <timestamp>2021-09-18 18:30:49.384</timestamp>
+</info>
