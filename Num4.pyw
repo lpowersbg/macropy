@@ -1,5 +1,5 @@
 import chymac
 
-macro = "Digit0"
+macro = "Num4"
 
 chymac.chysend(macro)
