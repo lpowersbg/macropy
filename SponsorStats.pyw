@@ -1,5 +1,5 @@
 import chymac
 
-macro = "SponsorHalftime"
+macro = "SponsorStats"
 
 chymac.chysend(macro)
