@@ -1,5 +1,5 @@
 import chymac
 
-macro = "ResumeAway"
+macro = "PlayClockToggle"
 
 chymac.chysend(macro)
