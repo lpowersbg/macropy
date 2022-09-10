@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "BaseRunner3"
 
 chymac.chysend(macro)

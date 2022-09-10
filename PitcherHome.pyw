@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "PitcherHome"
 
 chymac.chysend(macro)

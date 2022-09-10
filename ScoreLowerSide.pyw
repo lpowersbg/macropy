@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "ScoreLowerSide"
 
 chymac.chysend(macro)

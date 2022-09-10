@@ -1,5 +1,8 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "PointsAway2"
 
 chymac.chysend(macro)
+
+
+

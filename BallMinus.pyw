@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "BallMinus"
 
 chymac.chysend(macro)

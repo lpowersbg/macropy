@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "SideSetBot"
 
 chymac.chysend(macro)

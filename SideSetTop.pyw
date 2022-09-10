@@ -1,5 +1,5 @@
 import chymac
 
-macro = "EraseOutput"
+macro = "SideSetTop"
 
 chymac.chysend(macro)
